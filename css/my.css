@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: Candyhome;
-  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/Candyhome.ttf");
+  src: url("/blog/fonts/Candyhome.ttf");
   font-display: swap;
   font-weight: lighter;
 }
