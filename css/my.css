@@ -11,12 +11,6 @@
   font-weight: lighter;
 }
 @font-face {
-  font-family: ZhuZiAYuanJWD;
-  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/ZhuZiAYuanJWD.ttf");
-  font-display: swap;
-  font-weight: lighter;
-}
-@font-face {
   font-family: JetbrainsMono;
   src: url("https://cdn.jsdelivr.net/npm/jetbrains-mono/fonts/webfonts/JetBrainsMono-Medium.woff2");
   font-display: swap;
