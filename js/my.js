@@ -1,0 +1,1 @@
+document.getElementById("video").volume = 0.6;
